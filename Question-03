@@ -8,7 +8,7 @@
 // c.Question#3: Add the statements necessary to print your last name, followed
 // by a comma and your first initial. Compile and run your program.
 
-Answer:
+// Answer:
 
 #include <iostream> 
 using std::cout, std::string; 
