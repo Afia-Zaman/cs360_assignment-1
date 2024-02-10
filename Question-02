@@ -11,7 +11,7 @@
 // c. Question#3: Change your program so that your first name is printed followed
 // by your last name, with a blank in between the names.
 
-Answer: 
+// Answer: 
 
 
 # include<iostream> // (Question#2)
