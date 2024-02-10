@@ -1,5 +1,5 @@
 // 1. Let’s examine / run the following C++ program regarding string data type and related
-operators
+// operators
 
 #include <iostream>
 using std::cout;
@@ -28,7 +28,7 @@ cout << fourthLine << '.' << endl;
 return 0;
 }
 
-/// Output - The itsy bitsy spider went up the water spout;
-down came the rain and washed the spider out;
-out came the sun and dried up all the rain;
-and the itsy bitsy spider went up the spout again. ///
+// Output - The itsy bitsy spider went up the water spout;
+// down came the rain and washed the spider out;
+// out came the sun and dried up all the rain;
+// and the itsy bitsy spider went up the spout again. 
