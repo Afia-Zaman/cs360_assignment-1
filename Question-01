@@ -1,6 +1,8 @@
 // 1. Let’s examine / run the following C++ program regarding string data type and related
 // operators
 
+// Answer: 
+
 #include <iostream>
 using std::cout;
 using std::endl;
